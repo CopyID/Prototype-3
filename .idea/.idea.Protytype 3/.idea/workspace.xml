@@ -8,6 +8,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RepeatBackground.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -71,7 +74,7 @@
       <updated>1579252931870</updated>
       <workItem from="1579252933313" duration="117000" />
       <workItem from="1580458069598" duration="4204000" />
-      <workItem from="1580464760139" duration="259000" />
+      <workItem from="1580464760139" duration="777000" />
     </task>
     <servers />
   </component>
